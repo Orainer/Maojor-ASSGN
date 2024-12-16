@@ -1,0 +1,6 @@
+Aurthor:Oraine Rhooms
+Date created:December 16,2024
+Course: ITT103
+GitHub Public URL to Code:https://github.com/Orainer/Maojor-ASSGN
+
+A command-line tool called the Course Registration System was created to effectively manage enrollment, students, and courses. It enables administrators to manage payments, add courses, register students, enroll them in courses, and obtain necessary course and student data.
